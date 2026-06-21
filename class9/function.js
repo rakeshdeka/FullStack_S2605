@@ -40,3 +40,6 @@ function checkOddEven(num) {
 checkOddEven(8)
 checkOddEven(8)
 checkOddEven(8)
+
+
+
