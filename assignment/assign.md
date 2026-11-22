@@ -44,5 +44,4 @@ MERN Project (react/next, express, mongodb, tailwindcss)
     - featured job listing
         - companis will pay extra to display job at the top of the search result
     - employer pay to search candidate profiles and contact candidate
-    - adverstisment
 
