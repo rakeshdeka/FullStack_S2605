@@ -34,7 +34,7 @@ MERN Project (react/next, express, mongodb, tailwindcss)
 - remove iappropiate job listing
 - subadmin
 
-## As Saas (razorpay, cashfree)
+## As Saas (razorpay, cashfree) *(extra points)*
 
 - Include payments(if you want )
 
